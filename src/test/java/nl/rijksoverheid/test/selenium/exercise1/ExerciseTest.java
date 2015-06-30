@@ -1,9 +1,4 @@
-package nl.rijksoverheid.test.exercise1;
-
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+package nl.rijksoverheid.test.selenium.exercise1;
 
 import static org.junit.Assert.assertTrue;
 

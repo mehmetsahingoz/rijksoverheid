@@ -1,4 +1,4 @@
-package nl.rijksoverheid.test.exercise1;
+package nl.rijksoverheid.test.selenium.exercise1;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
