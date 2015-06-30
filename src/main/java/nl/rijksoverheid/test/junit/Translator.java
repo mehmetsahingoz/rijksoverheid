@@ -3,7 +3,7 @@ package nl.rijksoverheid.test.junit;
 /**
  * Created by oscar on 30-6-15.
  */
-public class Translater {
+public class Translator {
 
     private static final String[] WORDS_NL = {"fiets", "auto", "vliegtuig", "boot", "ruimteschip", "helicopter"};
     private static final String[] WORDS_EN = {"bike", "car", "airplane", "boat", "spaceship", "helicopter"};
