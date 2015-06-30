@@ -1,5 +1,10 @@
 package nl.rijksoverheid.test.exercise1;
 
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
 import static org.junit.Assert.assertTrue;
 
 /**
@@ -55,8 +60,15 @@ import static org.junit.Assert.assertTrue;
  * Do the assertion. I checked if the text started with 'Rijksoverheid' by using WebElement#getText() on the search
  * result.
  *
+ * Step 12:
+ * Run the test by right clicking the method and click run.
+ *
+ * Step 13:
+ * Celebrate your first selenium test.
+ *
  * Created by oscar on 30-6-15.
  */
 public class ExerciseTest extends TestBase {
+
 
 }
