@@ -35,7 +35,7 @@ public class FirstExampleTest {
 
         driver.get("http://www.farg.nl");
 
-        WebElement element = driver.findElement(By.xpath("/html/body/img"));
-        assertEquals("img", element.getTagName());
+        WebElement image = driver.findElement(By.xpath("/html/body/img"));
+        assertEquals("img", image.getTagName());
     }
 }
