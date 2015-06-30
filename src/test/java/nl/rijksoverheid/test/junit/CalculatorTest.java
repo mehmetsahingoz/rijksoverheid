@@ -67,6 +67,6 @@ public class CalculatorTest {
 
         //fail the assertion
         assertEquals(105, result);
-
     }
+
 }

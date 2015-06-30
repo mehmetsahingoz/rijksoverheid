@@ -23,4 +23,12 @@ public class Calculator {
         return a / b;
     }
 
+    public long square(long a) {
+        return a * a;
+    }
+
+    public long sqrt(long a) {
+        return (long) Math.sqrt(a);
+    }
+
 }
