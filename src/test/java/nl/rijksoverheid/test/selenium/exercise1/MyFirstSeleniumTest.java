@@ -63,7 +63,7 @@ import static org.junit.Assert.assertTrue;
  *
  * Created by oscar on 30-6-15.
  */
-public class ExerciseTest extends TestBase {
+public class MyFirstSeleniumTest extends TestBase {
 
 
 }
