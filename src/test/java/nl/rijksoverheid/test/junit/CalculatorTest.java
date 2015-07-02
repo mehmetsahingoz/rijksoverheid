@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Calculator test example.
- * Created by oscar on 30-6-15.
+ * @author Oscar Farg
  */
 public class CalculatorTest {
 

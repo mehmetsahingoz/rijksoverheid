@@ -1,7 +1,7 @@
 package nl.rijksoverheid.test.junit;
 
 /**
- * Created by oscar on 30-6-15.
+ * @author Oscar Farg
  */
 public class Translator {
 

@@ -1,5 +1,7 @@
 package nl.rijksoverheid.test.selenium.exercise1;
 
+import nl.rijksoverheid.test.selenium.TestBase;
+
 import static org.junit.Assert.assertTrue;
 
 /**
@@ -61,9 +63,8 @@ import static org.junit.Assert.assertTrue;
  * Step 13:
  * Celebrate your first selenium test.
  *
- * Created by oscar on 30-6-15.
+ * @author Oscar Farg
  */
 public class MyFirstSeleniumTest extends TestBase {
-
 
 }

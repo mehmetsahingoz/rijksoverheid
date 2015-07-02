@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 
 /**
- * Created by oscar on 29-6-15.
+ * @author Oscar Farg
  */
 public class FirstExampleTest {
 

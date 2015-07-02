@@ -1,4 +1,4 @@
-package nl.rijksoverheid.test.selenium.exercise1;
+package nl.rijksoverheid.test.selenium;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
  * This is the Superclass to all Tests in this project. See the documentation on each method to find out what is does.
- * Created by oscar on 30-6-15.
+ * @author Oscar Farg
  */
 public class TestBase {
 

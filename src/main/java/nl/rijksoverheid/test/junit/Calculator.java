@@ -3,7 +3,7 @@ package nl.rijksoverheid.test.junit;
 /**
  * Extremely simple calculator written to try to write junit tests.
  *
- * Created by oscar on 30-6-15.
+ * @author Oscar Farg
  */
 public class Calculator {
 

@@ -1,7 +1,7 @@
 package nl.rijksoverheid.test.java;
 
 /**
- * Created by oscar on 1-7-15.
+ * @author Oscar Farg
  */
 public class HelloWorld {
 
